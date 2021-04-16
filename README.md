@@ -1,4 +1,4 @@
-# See APP: https://codesandbox.io/s/rick-and-morty-api-c3dhc
+# See APP: https://c3dhc.csb.app/
 
 
 
