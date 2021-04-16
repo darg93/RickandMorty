@@ -1,3 +1,12 @@
+# See APP: https://codesandbox.io/s/rick-and-morty-api-c3dhc
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
